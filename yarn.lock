@@ -5779,7 +5779,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.23.2, @babel/runtime@npm:^7.23.6":
+"@babel/runtime@npm:^7.23.2":
   version: 7.24.7
   resolution: "@babel/runtime@npm:7.24.7"
   dependencies:
@@ -5788,12 +5788,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.26.0":
-  version: 7.26.0
-  resolution: "@babel/runtime@npm:7.26.0"
+"@babel/runtime@npm:^7.26.10":
+  version: 7.27.0
+  resolution: "@babel/runtime@npm:7.27.0"
   dependencies:
     regenerator-runtime: ^0.14.0
-  checksum: c8e2c0504ab271b3467a261a8f119bf2603eb857a0d71e37791f4e3fae00f681365073cc79f141ddaa90c6077c60ba56448004ad5429d07ac73532be9f7cf28a
+  checksum: 3e73d9e65f76fad8f99802b5364c941f4a60c693b3eca66147bb0bfa54cf0fbe017232155e16e3fd83c0a049b51b8d7239efbd73626534abe8b54a6dd57dcb1b
   languageName: node
   linkType: hard
 
@@ -11835,7 +11835,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@metamask/sdk@workspace:packages/sdk"
   dependencies:
-    "@babel/runtime": ^7.26.0
+    "@babel/runtime": ^7.26.10
     "@jest/globals": ^29.3.1
     "@lavamoat/allow-scripts": ^2.3.1
     "@metamask/auto-changelog": 3.1.0
@@ -27593,7 +27593,7 @@ __metadata:
     "@babel/preset-flow": ^7.23.3
     "@babel/preset-react": ^7.23.3
     "@babel/preset-typescript": ^7.23.3
-    "@babel/runtime": ^7.26.0
+    "@babel/runtime": ^7.26.10
     "@expo/next-adapter": ^5.0.2
     "@fortawesome/fontawesome-svg-core": ^6.4.2
     "@fortawesome/free-solid-svg-icons": ^6.4.2
@@ -27727,7 +27727,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.23.6
     "@babel/preset-env": ^7.23.6
-    "@babel/runtime": ^7.23.6
+    "@babel/runtime": ^7.26.10
     "@metamask/sdk": "workspace:^"
     "@metamask/sdk-communication-layer": "workspace:^"
     "@metamask/sdk-react": "workspace:^"

@@ -68,7 +68,7 @@
     "@babel/preset-flow": "^7.23.3",
     "@babel/preset-react": "^7.23.3",
     "@babel/preset-typescript": "^7.23.3",
-    "@babel/runtime": "^7.26.0",
+    "@babel/runtime": "^7.26.10",
     "@expo/next-adapter": "^5.0.2",
     "@lavamoat/allow-scripts": "^2.3.1",
     "@svgr/webpack": "^8.1.0",

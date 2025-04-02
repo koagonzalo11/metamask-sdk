@@ -48,7 +48,7 @@
     "build:dev": "yarn build:types && NODE_ENV=dev rollup -c --bundleConfigAsCjs"
   },
   "dependencies": {
-    "@babel/runtime": "^7.26.0",
+    "@babel/runtime": "^7.26.10",
     "@metamask/onboarding": "^1.0.1",
     "@metamask/providers": "16.1.0",
     "@metamask/sdk-communication-layer": "workspace:*",
