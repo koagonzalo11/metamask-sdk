@@ -44,7 +44,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsdoc": "^46.4.3",
     "eslint-plugin-prettier": "^4.2.1",
-    "koa": "^2.14.2",
+    "koa": "^2.16.1",
     "prettier": "^2.8.8",
     "webdriverio": "^9.2.1"
   }
